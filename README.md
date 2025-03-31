@@ -1,4 +1,4 @@
-Seu App - Gerador de Frases Motivadoras 🚀
+Seu App - Jogo Pedra, Papel e Tesoura 🚀
 
 Bem-vindo ao Seu App, um aplicativo simples que gera frases aleatórias motivadoras para inspirar o seu dia. <br>Este projeto faz parte do meu aprendizado no curso de mobile do professor Jamilton Damasceno.
 

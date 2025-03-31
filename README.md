@@ -1,4 +1,3 @@
-![pedra-papel-tesoura](https://github.com/user-attachments/assets/7b97fde9-975a-4370-849b-93cad6aeaf62)
 Seu App - Gerador de Frases Motivadoras 🚀
 
 Bem-vindo ao Seu App, um aplicativo simples que gera frases aleatórias motivadoras para inspirar o seu dia. <br>Este projeto faz parte do meu aprendizado no curso de mobile do professor Jamilton Damasceno.
@@ -34,7 +33,7 @@ Tecnologias Utilizadas
 <br>
 Este aplicativo foi projetado para fornecer frases motivadoras que podem inspirar e elevar seu ânimo a cada dia. Aproveite a experiência! 🚀✨
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/84727de8-a270-496a-8b67-9d191c8fcf85" alt="Imagem do app motivacional" style="width:50%;">
+    <img src="https://github.com/user-attachments/assets/7b97fde9-975a-4370-849b-93cad6aeaf62" alt="Imagem do app motivacional" style="width:50%;">
 </div>
 
 

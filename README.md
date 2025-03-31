@@ -34,7 +34,6 @@ Bem-vindo ao Seu App, um aplicativo divertido e simples para jogar Pedra, Papel 
 
 📱 Mobile: Desenvolvido em Java. <br>
 <br>
-Este aplicativo foi projetado para fornecer frases motivadoras que podem inspirar e elevar seu ânimo a cada dia. Aproveite a experiência! 🚀✨
 <div align="center">
     <img src="https://github.com/user-attachments/assets/7b97fde9-975a-4370-849b-93cad6aeaf62" alt="Imagem do app motivacional" style="width:50%;">
 </div>
